@@ -1,0 +1,13 @@
+E:\BaiduSyncdisk\GeweChatMoYuHelper\obj\Debug\net8.0\GeweChatMoYuHelper.csproj.AssemblyReference.cache
+E:\BaiduSyncdisk\GeweChatMoYuHelper\obj\Debug\net8.0\GeweChatMoYuHelper.GeneratedMSBuildEditorConfig.editorconfig
+E:\BaiduSyncdisk\GeweChatMoYuHelper\obj\Debug\net8.0\GeweChatMoYuHelper.AssemblyInfoInputs.cache
+E:\BaiduSyncdisk\GeweChatMoYuHelper\obj\Debug\net8.0\GeweChatMoYuHelper.AssemblyInfo.cs
+E:\BaiduSyncdisk\GeweChatMoYuHelper\obj\Debug\net8.0\GeweChatMoYuHelper.csproj.CoreCompileInputs.cache
+E:\BaiduSyncdisk\GeweChatMoYuHelper\bin\Debug\net8.0\GeweChatMoYuHelper.deps.json
+E:\BaiduSyncdisk\GeweChatMoYuHelper\bin\Debug\net8.0\GeweChatMoYuHelper.dll
+E:\BaiduSyncdisk\GeweChatMoYuHelper\bin\Debug\net8.0\GeweChatMoYuHelper.pdb
+E:\BaiduSyncdisk\GeweChatMoYuHelper\obj\Debug\net8.0\GeweChatMoYuHelper.dll
+E:\BaiduSyncdisk\GeweChatMoYuHelper\obj\Debug\net8.0\refint\GeweChatMoYuHelper.dll
+E:\BaiduSyncdisk\GeweChatMoYuHelper\obj\Debug\net8.0\GeweChatMoYuHelper.pdb
+E:\BaiduSyncdisk\GeweChatMoYuHelper\obj\Debug\net8.0\ref\GeweChatMoYuHelper.dll
+E:\BaiduSyncdisk\GeweChatMoYuHelper\bin\Debug\net8.0\wx_bot\Apis\template-web.js
